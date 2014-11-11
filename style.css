@@ -5,3 +5,7 @@ h1 {
 	background-color:red;
 	background-image:url("bg.png");
 }
+
+h2 a {
+	text-decoration: none;
+}
