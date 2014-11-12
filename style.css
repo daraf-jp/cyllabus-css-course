@@ -34,16 +34,19 @@ h2 a {
 	margin: 0 0 0 50px;
 	padding: 0 0 0 30px;
 	border: dotted 10px;
+	float: left;
 }
 
 #block2 {
 	width: 150px;
 	height: 150px;
 	border: solid 1px;
+	float: left;
 }
 
 #block3 {
 	width: 200px;
 	height: 200px;
 	border: solid 1px;
+	float: left;
 }
