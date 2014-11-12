@@ -50,3 +50,11 @@ h2 a {
 	border: solid 1px;
 	float: left;
 }
+
+.clearing {
+	clear: both;
+}
+
+.clearing hr {
+	display: none;
+}
