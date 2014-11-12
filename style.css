@@ -6,6 +6,12 @@ h1 {
 	background-image:url("bg.png");
 }
 
+h2 {
+	width: 150px;
+	height: 150px;
+	background-color: pink;
+}
+
 h2 a {
 	text-decoration: none;
 }
