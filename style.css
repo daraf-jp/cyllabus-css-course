@@ -35,3 +35,15 @@ h2 a {
 	padding: 0 0 0 30px;
 	border: dotted 10px;
 }
+
+#block2 {
+	width: 150px;
+	height: 150px;
+	border: solid 1px;
+}
+
+#block3 {
+	width: 200px;
+	height: 200px;
+	border: solid 1px;
+}
