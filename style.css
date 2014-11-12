@@ -17,3 +17,9 @@ h2 a {
 #para1 {
 	color: blue;
 }
+
+#block1 {
+	width: 150px;
+	height: 150px;
+	background-color: red;
+}
